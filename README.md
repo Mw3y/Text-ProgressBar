@@ -4,7 +4,9 @@ It also works with all kind of programs.
 
 # How to use it
 
-const progressBar = new ProgressBar(value, maxValue, barSize); //The barSize is the number of caracters which define the bar (default: 20)
+//The barSize is the number of caracters which define the bar (default: 20)
+const progressBar = new ProgressBar(value, maxValue, barSize); 
+//Create the bar
 let bar = progressBar.createBar();
 
 # Screenshot
