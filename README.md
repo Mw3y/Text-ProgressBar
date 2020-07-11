@@ -12,5 +12,5 @@ It also works with all kind of programs.
 progressBar(value, maxValue, size);
 ```
 
-## Screenshot
+## Example
 ![](https://i.imgur.com/AOCcEVW.png)
