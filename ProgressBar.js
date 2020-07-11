@@ -1,7 +1,7 @@
 /**
  * Create a text progress bar
- * @param {Number} value - The bar percentage
- * @param {Number} maxValue - The max percentage of the bar
+ * @param {Number} value - The value to fill the bar
+ * @param {Number} maxValue - The max value of the bar
  * @param {Number} size - The bar size (in letters)
  * @return {String} - The bar
  */
