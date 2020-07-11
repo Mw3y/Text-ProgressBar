@@ -9,4 +9,4 @@ progressBar(value, maxValue, size);
 ```
 
 # Screenshot
-![](https://i.imgur.com/4ihbqWh.png)
+![](https://i.imgur.com/AOCcEVW.png)
