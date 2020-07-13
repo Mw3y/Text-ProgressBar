@@ -9,7 +9,7 @@ It also works with all kind of programs.
 ## How to use it
 
 ```javascript
-progressBar(value, maxValue, size);
+var progressbar = progressBar(value, maxValue, size);
 ```
 
 ## Example
